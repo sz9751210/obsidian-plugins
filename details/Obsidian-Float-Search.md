@@ -10,8 +10,3 @@ Obsidian-Float-Search 是一個 Obsidian 增強插件,可以讓你在 Obsidian �
 3. 安裝完成後啟動插件，就可以使用新搜尋視窗
 4. 可以在搜尋欄位右邊的這一個按鈕，選擇要使用的搜尋視窗模式
 ![](./pic/obsidian_float_search.png)
-
-
-
-
-
