@@ -38,5 +38,3 @@
 </div>
 
 {{end}}
-
-{{updateDesc "sz9751210" "obsidian-plugins"}}
