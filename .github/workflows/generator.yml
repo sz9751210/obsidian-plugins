@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.0
       - name: generat chinaese readme
-        uses: sz9751210/yaml-readme@master
+        uses: eryajf/yaml-readme@master
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
